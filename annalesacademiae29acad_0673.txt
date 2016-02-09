@@ -1,0 +1,38 @@
+MATHEMATICA. ³7
+
+cava neque convexa, ct dicitur se inflectere. Quam
+ob causam punctum contactus M (fig. 6) appel-
+latur punctum inflexionis. Hocce casu est tan-
+gens, quae curvam et tangit et secat 1), pa—
+tauela axi abscissarum. Sin vero quotus secundi
+ordinis evanescat, non evancescente quoto primi
+ordinis, tangens (fig. 7 et 8) inclinata in axem
+abscsssamm, tangit et secat uno eodemque momen-
+
+to curvam. Curva igitur subit inflexionem ‚ fi ἓξ
+
+non evanescat ‚ vel generatim ‚ si primus quotorum
+differentialium‚ qui non evanescat, fit ordinis im-
+paris, cujus ordine ordo inflexionis est demetien-
+dus. Per semet ipsum patet, fi hiccce quotus im-
+paris ordinis uagativum valorem assequatur, cur-
+vam esse concavo-convexam (fig. 733 fin vero po-
+sitivum, convexo· concavam (fig. 8). Quando pri-
+mus quotus ‚ qui non evanescit , est ordinis paris ‚
+est curva ad eandem partem tangentiS fita et an-
+te et post punctum contactus‚nihilque observatu
+dignum offert, et curva ipsa in hocce puncto dici-
+tur serpere, et punctum contactus punctum ser-
+pentcmenti (point de serpentement).
+
+Cum figurae 7 et 8 inspiciantur, patet quotum
+
+d-Z- vel tangentem trigononietricam anguli, quem
+
+dx
+
+tangens curvae cum axe abscissarum facit ‚ in fig. 7
+esse Minimum , et in fig. 8 esse Maximum.
+AC}
+1) Cons- S· 3·
+

@@ -1,0 +1,33 @@
+44 COMMENTATIO
+
+§. 16.
+
+Quamvis omnes lineae et algebraicae et transcen·
+dentes per aequationes' inter c06rdinatos orthogona·
+les indicari posfint 3 nonnullae tamen transscendentes,
+imprimis curvae spitales , definiuntur plerumque per
+aequationes polares. Ut ad has lineas formulae tan·
+gentis,subtangentis ‚ cet. ‚ apphcentur ‚ debent cobr-
+dinatae orthogonales transformari in courdinatas po-
+lares. Ponatur igitur in A (fig. 17) origo cobrdi-
+natarum orthogonalium‚ ΛΡ Ξ x et PM Ξ y,
+OQ (vel arcus inclusus inter punctum Q, in axe
+abscissarum AB et punctum Ο, in quo est origo
+arcus ΝΩ) Ξ m , NQ = t et PM perpendicula-
+riter demissa ad AB. Obervato ‚ angulum MAPme·
+tiendum esse per arcum Nssz—(m—t) ··¹.:.·t—m ‚
+obtinentur aequationes :¹
+AM2= AP2-1-PM2ve1 u=V(x² -4-y2). . . . (1)
+AP2= AMcos NQvel x=11cos(t—m). . . . (α)
+PM Ξ AM fin Nsdely=u¹ fin (t—m). . . . (3)
+ergo ‘
+
+x = cos ‹ft—m)
+
+12
+Z Ξ fin (z—sn)
+
+et, posito AB se confundere cum AO ‚
+
+Per
+

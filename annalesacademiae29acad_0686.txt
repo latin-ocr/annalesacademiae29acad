@@ -1,0 +1,46 @@
+30 COMMENTAT10
+Circulus igitur ‚ fi hae a, β, et y in eJ‘us aequa-
+tione 'ita sunt determinatae ‚ non finit ut alter cir-
+culus ejusmodi inter huncce circulum et curvam
+propositam transeat, atque igitur est circulus oscu-
+lator curvae propofitae cujuscunque. ’
+
+Quia radius circuli osculatoris considerari solet
+tanquam fitus in ea plani parte, cui curva obver-
+v”tat concavitatem ‚ quo casu valor ipfius [ἐξ est ne-
+'gativus3 mathematici hanc ob causam, ut radius
+fi curva convexitatem axi abscissarum obvertat,
+evadat negativus, assumere solent in adhibenda for·
+
+mula ipsius y negativum fignum , ita ut fit
+
+dv ² ἓ
+(¹ ÷ (715) >²
+d² y
+, κ dx²
+Non silentio praetermittendum est centrum circuli
+osculatoris confiderandum esse tanquam punctum
+intersectionis duarum normalium ‚ quae distantia in-
+finite parva a se invicem sunt disfitae. Quando igi-
+
+tur aequatio normalis Jam antea inventa ponitur sub
+forma
+
+ 
+
+7=·-··
+
+ 
+
+(γ’-γ) dy-1- (af—x) dx=0 . . . (α)
+et observatur, si ad normalem puncti subsequentis
+transeatur, substituendum esse x -ι- dx pro x, et
+γ’ tanquam variabilem quantitatem confiderandam,
+coordinatas autem x' et y non loco mutari in punc-
+to intersectionis harum normalium3 differentianda
+est aequatio normalis , consideratis a: et y tanquam
+
+va·
+
+ 
+

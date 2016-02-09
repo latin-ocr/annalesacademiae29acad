@@ -1,0 +1,33 @@
+MATHEMAthA. 141
+
+gentis eliminantur, exsistit aequatio, quae omnes
+subsequentes interfectiones R, R' ...... continet
+curvarum, quae diverfis valoribus, quos hae con-
+stantes assumere posfint, respondeant, ideoque quae
+a datis curvis tangitur. Sequens observatio hanc
+rem satis illustrabit.
+
+. Quando F=0aequatio est curvaetactae, quae
+tanquam F (x, y) ponatur, et deinde pro curvis
+tangentibus aequatio* quaecunque assumatur, e. g.
+V :2¹0 inter x 'et y et duas constantes a, b, fi
+contactus fit prima ordinis, vel inter-x et y tres
+constantes a, b, c, fi contactus secundi ordinis, et
+stc porr03 ex-iistit in primo casu, eliminatis vinter
+F=0, V=0, 0³1²—- ...- 0, dV=o quantitati·
+bus, x, y, Ξ 2 aequatio inter a et b, quae in·
+serviat determinandae quantitati constanti alteri per
+alteram. ln altero autem casu, eliminatis interF=0,
+V=0, dF=0, dV= 0, d2F=0 ‚d2V= 0
+quantitatibus x ‚ y, ἐς, {Z exfistunt duae aequati-0-¹
+nes inter a, b, c, quarum ope duae constantes
+ber tertiam determinandae sunt et fic porr.0 Si
+'deinde constanti arbitrariae, quae sola remanet in
+aequatione V =0 curvae tangentis omnes valotes,
+quaeexstare possunt, tribuantur, obtinentur ae-
+quationes omnium curvarum, quae tangunt cur·
+vam per aequationem F= odatam. Res ita etiam se-
+se Habet, cum aequatio F=0 fit aequatio differentia-
+
+lis
+

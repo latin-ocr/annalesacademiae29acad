@@ -1,0 +1,59 @@
+MATHEMATICA. 4-»5
+
+Per substitutionem aequationunh (2) et (3) ex ae-
+quatione inter co6rdinatas orthogonales aequatio
+polaris deduci potest. Si aequationes (1), (2) et
+(3) differentientur, exfistunt
+
+du = d. 1! (κ’ -1- 3¹²)
+
+dx = du cos (t—m) — udt fin (t—m)
+
+dy = da fin (t—m) -ξ- udt cos (t—m)'
+et ‚ quantitate du inter duas ultimas eliminata,
+dt — dy cos (t—m) ·— dx fin (t—m)
+
+· u
+
+vel valoribus pofitis pro u, cos (t—m) et fluo-qn)
+xdy ——j—ydxq
+x ,ὶ- y2 ο
+,Ηαι-ηιῃ ope aequationum ex aequationibus differen-
+tiatis unius generis ad aequationes differentiatas alte-
+rius transiri potest. Si in formulis, quae exstant
+ad tangentem ‚ subtangentem ‚ normalem et subnot-
+malem inveniendam pro x, y, clx et dy eorum
+valores substituantur, hae formulae aptae sunt cut·-
+vis ‚ quarum ‚aequatio est polaris. Ergo:
+
+tang.MP.=us1u(c-m)1f[1÷(5133Q<t—m3)2
+. du tm (t—mJ-fl-udt cos(t.-.m
+
+subt. PT=u fin (2-‚223 (ἔα CQ
+, du sm (t—m) -ὶ- udt cos (t—m)
+
+norm.MR=as1n(t-.m>1s[1÷ ZZ-cqsz(g'—-:Z3‡LCZSE{{E{3)2]
+
+qu sm (t—m)‚{1-qg{t-cos <t-m>
+
+du cos (t-mJ—udt fin (t—m)
+
+· Propter arbitrariam pofitionem axeos absfissarum
+arcus mita sumi potest, ut fit ρΝ-εὲπ, ideoque
+
+PM
+
+ 
+
+dt:
+
+ 
+
+subn. PR=u fin(t—m)
+
+ 
+
+ 
+
+ 
+

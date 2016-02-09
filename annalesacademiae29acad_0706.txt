@@ -1,0 +1,38 @@
+μ’κεῖ 1(εοικωνιιῑικιΤιειΤιε)
+
+omnibus tanquam variabilibus consideratis, differem
+tianda est, ideoque
+Adx -ff- de -ι- Cdz ,ΞΟ .
+Ad²x÷ Bd2y-4- Cd²y=0
+et deinde ope harum trium quantitates A, B et C
+sunt eliminandae. Aequatio igitur plani osculan-
+tis est
+(x‘—x) (dyd2z-dzd2y) ÷(y'—y) (dzd2x—dxd2x) -ί-
+(z'ff-z) (dxd25—dyd2x)=0 . . . . (1)
+Quia curva per duas aequationes est determinata ,ὲ
+una triutn variabilium est i11dependenS‚ e. g. z, ita
+ut d²z=0, ideoque mutatur ‚ hocce valore ‚substi-
+ttlto, aequatio plani osculantis in
+-(x'-- -x) d2z d2y-i- (gy '—-y) dzd2x-i- (z ‘-·-z)
+(ἅθῠιία γ-τ-αζγόαώεο. .. .(2)
+Si in aequatione (1) pro y et z atque earum diffe·
+rentialibus valores ‚ qui deducuntur ex aequationibus
+gy=<p (x) et z: ψ (x), substituantur ‚ eadem aequa·
+‘tio obtinetur atque prima plani osculantis. A plano
+osculante ad subsequens osculans transitur ope diffe-
+rentiationis e respectu x ‚ y et z ‚ substitutis pro y et z
+'eorum valoribus‚ et tandem x inter haec plana os-
+culantia eliminata, obtinetur aequatio superficiei,
+*quae totam curvam osculat.
+Ἴ Nota. Si superficies rectificans perpendiculariter
+superficiei osculanti insistat, earum interfectio est
+curva ipsa proposita ‚ qu‘us proprietatis ope Lan·
+cr et determinavit superficiem rectificantem ι).
+
+. 26.
+¹.) Vide. La croix, 1. Ι. 1. s. 3462‘ 347- 1¹. 619Sseqq.
+
+Lc-
+
+ 
+

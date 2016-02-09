@@ -1,0 +1,39 @@
+MATHEMA‘rrcA. 19
+
+§. 6.
+
+Curvae fimplicis ‘curvaturae‚' quas hucusque
+considerari, pertinent ad geometriam duarum di-
+menfionum3 curvae vero duplicis‘ curvaturae, quae
+considerantur esse fitae in spatio et ductae in su-
+perficiebus solidorum ‚ pertinent ad 'geometriam
+trium dimensionum, et dependent a tribus coor-
+dinatis perpendiculariter fibi infistentibus, qua·
+rum duae factiones funt tertiae, unde efficitur,
+curvam duplicis curvaturae exprimi posse non nist
+per duas aequationes inter tres indeterminatas.
+
+Exprimatur igitur una curva duplicis curvaturae
+per aequationes:
+
+F(x,y)=:0, CD(x,z)=0‚
+vel
+θείω), νεφζκ),
+in quibus x, y, z sunt coordinatae. Altera vero
+vper
+
+F‘(x',y¹ =0 Q'Q‘az‘ ΞΟ,
+vel
+· ’ = rw), :arom
+'in quibus x‘ ‚ y‘ ‚ z' sunt coordinatae. -· Si hae
+
+duae
+
+,ρει ¹77· et La croix, 1. 1. 1. §.230. pag.437.Cf.Eu1e1-1.
+-. Introd. in anal. Infin. P. 11 5. 305. pag. 166 seqq. Primis.
+¹ squi de natura contaetus et osculi scripserunt, est annumeran-
+¹'du's L‘eibnitsius, (Op. omn. 111. pag. 185. nova Act. Erud.
+²up¹2 1⁶86. meditatio nova de natura etc. )
+
+ΒΩ.
+

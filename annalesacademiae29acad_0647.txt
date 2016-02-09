@@ -1,0 +1,41 @@
+MATHEMATICA. 13
+
+§- 3·
+
+Porro ponamus uno eodemque momento y=y'=y‘'
+et P=P'‚ Q: ρ’, ideoque differentias δ et δ’ re·
+praesentari per
+
+δ =(R—R') lz³÷(S—S‘ >h4÷ etc. ,
+
+3‘=(P—P“) h -ι- (Q—Q'' )Ιι2 -ι- (R — R‘') h⁸
+
+-i- (S- 5⁰) Μ -ι- etc. ‚
+et ob hancce caulam
+δ < δ’
+per
+(R—R‘) Ιι3 -ι- (S-S‘)h⁴÷ etc. < (P— 1³⁰) h
+÷(Q-·Q‘')h2÷(R—R“>h³÷(S-—S'‘)h⁴÷ etc. ‚
+vel
+
+(R -- R‘) h2-1- (S— δ’) h³ -ι- etc. < (P -- Ρ”)
+
+÷(Q—Q“)h÷)R—R“)h2÷(S-S“)h³÷ etc.
+Facile ex his est intellectu ‚ quoties termini, qui ip-
+fis h et h² sunt affecti, in membro δ’ non aequa-
+le fint sero ‚ toties quantitatem h tam infinite par-
+vam sumi posse , quae sufficiat ad quantitatem δ’
+majorem reddendam quam δ , quia, h=0 pofita‚
+formula δ < δ’ mutatur in 0 < (P -P'‘). In casn
+autem, qua P=P⁰ fiat, mutatur δ < δ’ in
+
+(R-R‘JW—i- (ις-ἄνθ -ι- etc· < (Q— Q‘ssv
+
+-ι- (R 7--R“) h2 -ι- (S-S“) h³ -ι- etc. ,
+
+vel in v
+(R — ιν) h -ι- <s— δ’) 222 ψ etc. < <Q— ρ’)
+÷ (R - R¹‘)h-÷- (S— 5⁰) h2 ÷ etc. ,
+ideoque differentia (Q— Q'') superabit terminos
+om·
+

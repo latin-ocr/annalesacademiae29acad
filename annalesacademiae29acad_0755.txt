@@ -1,0 +1,36 @@
+MATH'EMATrcA. 117
+
+determinatur, desolvi posse in duos factores rea-
+les, qui has duas varias evolutas repraesentent ι).
+
+§· 47·
+
+> In curvis fimplicis et duplicis curvaturae‘jam'vi-
+dimus, quo modo ab intersectione subsequentium
+normalium curvae evolutae nascuntur. Haec 'vero'
+consideratio facillime ad superficies applicatur.
+Aequationes normalis sunt
+(x‘-x)-l-p(z‘—z)=0 . . . . (a)
+(y‘-y),-{-q(z‘—z)=o ο . . . (b)
+Si una eademque normalis consideretur , sunt quan.
+
+times, x, gy, z, p et q constantes, fin ab una
+ad alteram subsequentem normalem transeatur, in-
+
+constantes. Quoniam autem a dato puncto ad quod-
+cunque punctorum huic circumjacentium transiri
+potest, ideoque directio ‚ in qua normalis progredi
+posse confideratnr‚ permaxime est diversa , variabi=
+les sunt ponendae x, y et z , et ut interfectio dua·
+rum subsequentium normalium exfistat, consideran·¹
+dae κ’, gy', z', tanquam constantes. Ergo diffe-
+tiatis aequationibus (a) et (b), et positis dz :pdx
+÷qdy, dp=rdx÷ sdy‚ dq=sdx -l- tdy obtinen-
+tur ·
+-dx-p2dx-pqdy÷(z'—z) (rsdx÷sdy>=0 . . . (ο)
+...dy—q2dy—pqu ¹·-l-(z'-—z) (sdx ÷tdy)=0 . . . (d)
+
+Quan-
+
+1) Vi& La croix, Ι. l. 1. §- 325, pag. 580.
+

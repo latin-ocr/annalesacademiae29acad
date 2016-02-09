@@ -1,0 +1,35 @@
+MATHEMA'rrcA. ,ς
+
+§. 36.
+
+Omnium rectarum ‚ quae e puncto contactus ad
+planum τ] duci posiunt , est ea prae ceteris notabi-
+lis , quae perpendiculariter infistit communi sectio·
+ni plani tangentis et plani xy. Haec linea dicitur
+esse maximae inclinationis in hoc planum (ligne de
+plus grande pente) et perquam facile hoc modo de·-
+terminatur.
+
+Ᾰ Aequatio plani tangentis est
+z‘-z ΞΡ (π’-π) ÷3q (ν’-3) (8- 34)-
+
+Si per hocce planum secatur planum κα, evade-
+
+re debet
+
+Ϊ z‘..··=0‚
+fi planum φτ,
+’ x'=0,
+si planum xz,
+J‘=00
+
+Ergo aequatio lineae rectae, per quam sectio com·
+munis plani tangentis et plani xj repraesentatur,
+est
+
+Na·
+
+qx functionum confidemtone doctrinam de Maximis dirivavit,
+uti etiarn Euler, Inst. cal. diff. Ρ. 11. Cap, . ια, et La
+Croix,1. Ι. 1. S. 156. p, ³74 seqq.
+

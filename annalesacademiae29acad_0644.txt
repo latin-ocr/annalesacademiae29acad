@@ -1,0 +1,49 @@
+ιο COMMENTATIO
+
+vae propositae cujuscunque, F‘ (asty), =0 vel
+y¹=f‘(x') aequationem lineae alterius five rectae
+five curvae, quam cum illa proposita comparandam
+nobis proponimus. In hisce aequationibus‚ quae
+ad eandem axin sumtae sunt, obtinentur x et y tan-
+quam coordinatae curvae primae, x‘ et y‘ alterius.
+
+Si hae curvae punctum habeant commune , opus
+est ut ,τ’-εχ et y‘=y sint. Si nune porro has
+duas curvas comparemus in punctis huic puncto
+communi proximis ‚ mutanda est in earum aequa-
+tionibus abscissa x in x-1-h, et x' in x‘÷h‚ et
+turn y et y‘ ope theorematis Tayloriani hocce mo·
+
+do exprimumtur:
+dy h d2y h² d³v h³
+y÷a7k f÷dx2 1.2÷ff1.2.3
+e (ἦν’ h (124)st h2 d³y‘ h³
+y÷c7x¹ ἶ ÷dx12 ἰ-Ξ-Ι-ιῖἶὲ 1.2. 3
+vel, brevitatis causa,
+y ÷Ph ÷Qh² ÷Rh³ ÷etc.‚
+y' -t- P'lz -i- Q‘h2-2- R‘lz3 -ι- etc.
+Quarum prima series fignificat ordinatam puncti
+curvae, cujus abscissa fit x÷h‚· altera itero, cujus
+fit x‘ -4-11. Differentia ordinatarum ‚- existente
+yzy' ‚ indicatur per seriem: ’
+<p—P‘> h ÷(Q—Q) h2 -ι- (R—R‘)h³÷etc; ’
+Qua serie distantia duarum curvarum ‚ mensa pet
+ordinatas, quae abscisfis x÷lz et x‘÷'h respon*
+dent, exprimitur. Hinc sequitur, hancce distan-
+tiam propter quantitatem h infinite parvam , eo
+mi-
+
+ 
+
+ 
+
+ 
+
+÷ etc. ‚
+
+ 
+
+ 
+
+-ι- etc. ,
+

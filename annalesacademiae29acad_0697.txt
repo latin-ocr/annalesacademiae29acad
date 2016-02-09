@@ -1,0 +1,35 @@
+MATHEMATlcm 5·-
+
+tio est y-:Ax—'7' vel ‚vezeliac-’⁸ -ι- B :lc-53³⁸·
+
+vel etc. , eo magis curvae propositae accedere ‚
+>qui majores evadant abscissae x, eamque autem
+nunquam attingere ‚ ita ut inter hanc duas tertia
+curva five parabolica sive hyperbolica ‚ nisi sit ordi-
+nis altioris, transire posfit. Ergo haecce secunda
+curva est'asymptotus primae curvae x).
+
+ἕ. 23.
+
+Facillime formula radii curvaturae ita transfor-
+matur, ut1 apta fit aequationibus polaribus. Si dt
+(§. 16) consideratur tanquam constans , debent esse
+dx et dy quantitates variabileS, dum x et y tam·
+quam functiones implicitae ipsius t considerantur
+Opus igitur est formulae ipsorumy ‚ x—-oo‚ y-ss
+(§. 18) ita transformentur, ut nullum differentiale
+sit consideratum tanquam constans. His observa·
+tis, mutantur hae formulae in
+
+, (αἶαν2 -4- ciffi}
+γε- dxd2y-dy d2x ·
+
+ 
+
+Va-
+
+ι) Vidd. La Grange‚ 1.1. P. 11. Ch. 11. pag. 184. §- 14
+La croix, 1.1.1. §- 203. p. 421 sqq. Euler,1ntrod. Ρ.
+11. S. 198, p. 99 et Newt„ 1. l. 1. Geom. anal· Cap. vn.
+ς. 26· p. 557.
+

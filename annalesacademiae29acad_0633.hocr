@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "annalesacademiae29acad_0633.png"; bbox 0 0 1483 2860; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 880 495 1119 671">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 880 495 1119 671">
+     <span class='ocr_line' id='line_1_1' title="bbox 880 495 1119 531; baseline -0.029 -7"><span class='ocrx_word' id='word_1_1' title='bbox 880 498 913 526; x_wconf 89' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 938 495 1099 531; x_wconf 66' lang='lat' dir='ltr'><strong>Tausnmo</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1108 509 1119 525; x_wconf 89' lang='lat'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 989 573 1032 596; baseline -0.07 0"><span class='ocrx_word' id='word_1_4' title='bbox 989 573 1032 596; x_wconf 76' lang='lat' dir='ltr'><strong>m:</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 903 643 1099 671; baseline -0.031 0"><span class='ocrx_word' id='word_1_5' title='bbox 903 643 1099 671; x_wconf 63' lang='lat' dir='ltr'><strong>Puuntmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 891 711 1107 744">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 891 711 1107 744">
+     <span class='ocr_line' id='line_1_4' title="bbox 891 711 1107 744; baseline -0.028 0"><span class='ocrx_word' id='word_1_6' title='bbox 891 716 1057 744; x_wconf 65' lang='lat' dir='ltr'>Gustu-:Lm</span> <span class='ocrx_word' id='word_1_7' title='bbox 1080 711 1107 739; x_wconf 90' lang='lat'><strong>1.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 887 1008 1131 1041">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 887 1008 1131 1041">
+     <span class='ocr_line' id='line_1_5' title="bbox 887 1008 1131 1041; baseline -0.016 -3"><span class='ocrx_word' id='word_1_8' title='bbox 887 1010 923 1038; x_wconf 85' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 945 1008 1131 1041; x_wconf 68' lang='lat' dir='ltr'><strong>Tnzsmnc,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 915 1087 1104 1184">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 915 1087 1104 1184">
+     <span class='ocr_line' id='line_1_6' title="bbox 981 1087 1023 1108; baseline -0.024 0"><span class='ocrx_word' id='word_1_10' title='bbox 981 1087 1023 1108; x_wconf 80' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 915 1156 1104 1184; baseline -0.021 0"><span class='ocrx_word' id='word_1_11' title='bbox 915 1156 1104 1184; x_wconf 68' lang='lat' dir='ltr'>qunsnrm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 899 1228 1116 1257">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 899 1228 1116 1257">
+     <span class='ocr_line' id='line_1_8' title="bbox 899 1228 1116 1257; baseline -0.009 0"><span class='ocrx_word' id='word_1_12' title='bbox 899 1228 1066 1257; x_wconf 66' lang='lat' dir='ltr'><strong>Cunnum</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1088 1228 1116 1256; x_wconf 91' lang='lat'><strong>1.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

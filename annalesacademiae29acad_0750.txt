@@ -1,0 +1,39 @@
+112 COMMENTATIO
+
+§- 45·
+
+Ratio, qua radius curvaturae sectionis normalis
+exprimi potest, iam est indicata; radius vero cur·
+vaturae sectionis obliquae ope radiorum minoris
+majorisque curvaturae exprimi potest. Quando an-
+gulus inclinationis ‚ quam planum sectionis obli-
+quae et planum xy inter se faciunt, per o et an·
+gulus , quem sectio communis plani obliqui et pla-
+ni xy cum axe x faciunt, pet φ indicatur, tum
+in aequatione superficiei F (x, y, z)= o hae for·
+mulae
+
+xz.- x'cos cp÷y'coso fin φ-ί- σε
+
+y: x' fin cp-y‘ cosocos φ
+. z: x' fin θ
+sunt substituendae Δ1).
+His formulis in aequatione superficiei substitutis,
+obtinetur aequatio forma y'=‡,b (x') vel ap(x‘,y')·=o
+et radius curvaturae eiusmodi curvae, quae est
+fimplicis curvaturae, exprimitur per
+
+<1-1- , {itu}
+
+ἄπ’*
+Ε formulis , quac sunt substituendae , deducuntur
+dx :dxcos φ - dy‘ cos ofin φ
+dy = dx' fin φ ζ-ι- dy’ cosa eos φ
+dz :dy‘ fin θ
+
+δη] ..-
+
+ι-ι
+
+1) vid. Lu Croixffl. Ι. 1. ς. ¹296. p. ⁵41· prae-
+

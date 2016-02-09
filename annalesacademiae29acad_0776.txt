@@ -1,0 +1,40 @@
+138 coMMENTATxo
+
+Leibnits iu sfivero ι) consideravit hanc curvam
+tanquam conformatam ab intersectione infiniti nu-
+meri circulorum subsequentium, quorum centra in
+axe fita sunt, quo casu radii circulorum evadunt
+normales curvae quaerendae ‚ et relatio inter nor·
+males et partes axeos convenientes eadem exsistit
+atque reIatio inter radios et abscissas , quae respon·
+dent centris circulorum.
+
+Exfistente a abscissa, quae respondet centr0, et
+b radio, est aequatio circuli y2÷ (a—x)²= b.
+Aequatio autem proposita inter a et b praebet b=F (a)
+Ergo determinetur quantitas α, ejus valor sub-
+stituatur in aequatione circuli et ipsa inter ae-
+quationem, quae tum exsistit, huJ'usque differentia-
+le eliminetur3 quo facto pervenitur ad aequationem
+curvae quaesitae. Ponatur igitur, uti L e i b n i t s iu s ,
+b2=ak, in qua aequatione k est constans arbitra·
+ria. Qua aequatione substituta mutatur aequatio
+circuli in
+
+y2÷x2—2ax -2-a2-- ak: 0,
+quae e respectu ipfius parametri differentiata sub
+
+hac forma se praebet
+(—2x÷2a— k)da=0 ‚
+unde ,
+a: k-{Z‘AEx ,
+
+Δ·
+
+quo
+
+ῃ) vid. Act. erud. Lips. ΛΟ. ¹694· nova calculi differentia-
+⁴{is applicatio rell. Conf. Leibnitsii et Bcrnouilii, com-
+
+inerc. epist. Tom. Ι. Ep. V.
+

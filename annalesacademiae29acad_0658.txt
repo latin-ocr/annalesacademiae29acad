@@ -1,0 +1,34 @@
+,ι COMMENTATIO
+
+§. 7.
+
+Superficies curvae determinantur per tres cofir-
+dinatas, quae fibj invicem perpendiculariter infis-
+tunt‚ uti curvae duplicis curvaturae; attamen ab
+his differunt eo,' quod duae cofirdinatarum super-
+ficierum non a se invicem dependent et tertia sunc-
+tio est harum duarum. Ergo duae aequationes,
+quae curvam duplicis curvaturae determinant, re-
+praesentant finguiae curvam superficiem, quia cur-
+va, quae per has duas aequationes repraesenta·
+tur, conformata est intersectione harum duarum
+superficierum. Theoria igitur tangentium superfi-
+cierum ‘potest eodem modo tractari, quo theoria
+tangentium curvarum. Extistentibus x, y, z
+co6rdinatis unius, et x' ‚ γ’, z‘ cobrdinatis alte·
+rius superficiei, sunt aequationes duarum superfi-
+cierum:
+
+F(x‚y,z)=0 et F‘(x'‚y‘,z')=0
+vel
+z=f(x ’,7) et z‘=f‘(x'‚y')·
+
+= Si hac duae superficies punctum commune ha-
+beant, pro hocce punem, facto zzz', esse de?
+bent xzx‘etyzy‘‚ et, xin x÷h et y iny÷k
+mutatis, obtinentur pro z et ε’, secundum theo-
+rema Taylorianum‚ series hae
+
+1 clz dz
+³⁴· ῑ a} ἢ* 23¹⁶}
+

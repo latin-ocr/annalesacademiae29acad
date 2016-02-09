@@ -1,0 +1,34 @@
+MATHEMATICA. 147
+
+quae constantes arbitrariae sunt integralis-eomple-
+tae 1).
+
+*Alterum exemptum: inveniatur aequatio genera-
+lis superficierum, quae sub recto angulo secent in-
+finitum numerum superficierum datarum, quarum
+aequationes non inter se differunt nifi parametro '
+a, quaein una eademque superficie tanquam con·
+stans exsistit, variabilis vero debet esse, cum ab
+alia ad aliam superficiem transeatur. Hoc proble-
+ma , quod eadem ratione ad superficies atque pro·
+blema de trajectoriis orthogonalibus ad curvas fim-
+plicius curvaturae sese habet, hoc modo solvitur.
+Sint x, gy, z coordinat-ae rectangulae superficie-
+rum, quae secandae proponantur. Harum aequa-
+tio est per hypothesin aequatio finita inter x, y, z
+et a. Quando igitur haec aequatio differentiatur
+quantitate a tanquam sola variabili considerata et
+deinde inter aequationem hanc differentiatem, et
+aequationem ipsam α eliminatur, exfistit aequatio,
+cujus forma est dz = pdx ÷ qdy in qua p et q
+repraesentant functiones datas quantitatum x, y‚z.
+Haec aequatio pertinet ad omnes superficies ,
+quae secan-<iae proponantur. ponamus aequationem
+superficierum ‚ quae secant , differentiatam esse
+dz= de÷ Qd, Si designentur per κ’, y, z‘
+coordinatae puncti cujuscunque in spatio sui, cst
+
+ae-
+
+1)·Vid. Nouv. mem· de Boi-L 1774. p, 243·
+
